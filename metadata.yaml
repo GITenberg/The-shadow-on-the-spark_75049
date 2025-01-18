@@ -1,0 +1,35 @@
+_repo: The-shadow-on-the-spark_75049
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Aragon, J. M. de
+    gutenberg_agent_id: '54653'
+    url: http://www.gutenberg.org/2009/agents/54653
+creator:
+  author:
+    agent_name: Sears, Edward S.
+    gutenberg_agent_id: '57795'
+    url: http://www.gutenberg.org/2009/agents/57795
+description: ''
+gutenberg_issued: '2025-01-06'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '75049'
+language: en
+pgterms:marc904: https://archive.org/details/Amazing_Stories_v02n05_1927-08_017
+pgterms:marc905: 20250102023708sears
+pgterms:marc906: '1927'
+pgterms:marc907: US
+production_note: Roger Frank and Sue Clark
+publication_note: '  $aNew York :$bExperimenter Publishing Company, Inc., $c1927.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+series_note: Produced from the August 1927 issue of Amazing Stories Magazine.
+subjects:
+- !lcsh 'Detective and mystery stories'
+- !lcsh 'Murder -- Investigation -- Fiction'
+- !lcc 'PS'
+- GITenberg
+title: The shadow on the spark
+url: http://www.gutenberg.org/ebooks/75049
