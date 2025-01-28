@@ -5,12 +5,17 @@ contributor:
     agent_name: Aragon, J. M. de
     gutenberg_agent_id: '54653'
     url: http://www.gutenberg.org/2009/agents/54653
+covers:
+- cover_type: archival
+  image_path: 75049-h/images/cover.jpg
 creator:
   author:
     agent_name: Sears, Edward S.
     gutenberg_agent_id: '57795'
     url: http://www.gutenberg.org/2009/agents/57795
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/75049#The-shadow-on-the-spark
 gutenberg_issued: '2025-01-06'
 gutenberg_type: Text
 identifiers:
